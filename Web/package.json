@@ -1,0 +1,9 @@
+{
+	"name": "nuit-blanche-api",
+	"main": "app.js",
+	"dependencies": {
+		"express": "*",
+		"mongoose": "*",
+		"body-parser": "~1.0.1"
+	}
+}

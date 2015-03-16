@@ -1,0 +1,6 @@
+.DS_Store
+Web/uploads
+Web/node_modules
+.idea
+API/client/uploads
+npm-debug.log
